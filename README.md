@@ -6,7 +6,11 @@
 
 ## Demo
 
-_Screenshots coming soon._
+| Screening verdict | Admin / cost dashboard |
+|---|---|
+| ![Screening verdict](docs/01-verdict.png) | ![Admin / cost dashboard](docs/02-dashboard.png) |
+
+_Screens rendered with demo data — no real deal, client, or member._
 
 ## Key features
 
@@ -79,6 +83,10 @@ Tenant data is isolated per client **and per member** via namespaced session key
 ## Status
 
 Live in production and deployed in the EU, currently piloting with an angel network. Traction metrics — networks onboarded, decks analyzed, validation-set accuracy — will be published here once measured.
+
+## Contact
+
+[hippolyte.dupac@gmail.com](mailto:hippolyte.dupac@gmail.com)
 
 ## License
 
